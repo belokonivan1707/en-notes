@@ -1,0 +1,20 @@
+1. Could you please describe the details and scope of the last project you worked on?
+
+
+"In my last project, I worked as a web developer on a client-facing e-commerce website. 
+The goal of the project was to create a modern and user-friendly online store for our client's products. 
+The scope of the project involved developing the front-end interface using HTML, CSS, and JavaScript, 
+and integrating it with a back-end system for product management and order processing.
+
+My responsibilities included collaborating with the design team to implement the user interface,
+ensuring responsiveness across different devices and browsers, and optimizing the website for performance and speed. 
+I also worked closely with the back-end developers to integrate the front-end with the underlying database and APIs.
+
+Throughout the project, I actively participated in agile development methodologies, 
+attending daily stand-up meetings and contributing to sprint planning and retrospectives. 
+I also conducted thorough testing and debugging to identify and fix any issues or bugs that arose during development.
+
+Overall, the project was a success, and we delivered the website within the specified timeline and budget. 
+The client was pleased with the final result, as the website achieved their goals of providing an intuitive 
+shopping experience and driving conversions. It was a valuable experience that allowed me to further enhance my skills in 
+web development, teamwork, and project management."
