@@ -1,15 +1,46 @@
-
-
+ 
 TODO
-- Edit CV / "Modify the resume" or "revamp the resume"
-- 
+unit testing, integration testing, and system testing
 
+Usefull Resourses
+https://github.com/sudheerj/javascript-interview-questions#what-are-the-possible-ways-to-create-objects-in-javascript
 
 
 
 INTERVIEW QUESTIONS
 1. Could you please describe the details and scope of the last project you worked on?
+
 - The scope of the project involved developing
 - ensuring responsiveness across different devices and browsers
 
-2. 
+
+2. What was the most significant challenge you faced in your previous project?
+
+In my previous project, the most harderst challenge I faced revolved around the onboarding process.
+This project has a vast scope of numerous different repositories: 
+custom components libraries, specialized services and so on. 
+Additionally, sizable development team and a complex Adgile system.
+Consequently, effective communication skills were of paramount importance, 
+along with the ability to navigate through a substantial amount of code.
+However, after a few weeks of working on bug fixes, it was my luck, 
+they assigned on with a big new feature which was estimated on five month.
+This feature required rewriting the creator-facing product application with a fresh design and updated business logic. 
+While this period was significant challenges, it also provided me with invaluable experience and growth opportunities.
+
+
+3. Can you tell me about the skills that make you a good web developer?
+
+
+4. What has been your most challenging project / expiriense in web development?
+
+
+5. How would you describe your ideal working environment?
+
+
+6. What steps do you take to ensure your work is error-free?
+
+
+7. How do you ensure that your website design or web application is accessible and user-friendly?
+
+
+8. What is a recent technical challenge you experienced and how did you solve it?
