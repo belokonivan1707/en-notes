@@ -1,5 +1,6 @@
 insights
-provide some insights into how developers or individuals in general strive for error-free work:
+provide some insights into how developers or 
+individuals in general strive for error-free work:
 contribute to reducing errors
 create robust and reliable software systems
 robust and reliable
@@ -15,7 +16,8 @@ appointed date
 accomplishment
 Throughout my career
 revamp
-We successfully delivered the project within the set timeline and received positive feedback from both the client and users.
+We successfully delivered the project within the set timeline 
+and received positive feedback from both the client and users.
 to a certain extent
 constantly changing requirements
 maintaining
@@ -34,5 +36,18 @@ maintain well-being
 evelopment interview questions will be straightforward
 undergo
 I can't interept something
+Irritation,  its refers to a feeling of annoyance or displeasure caused 
+by something that bothers or agitates you. 
+Frustration refers to a feeling of being upset or annoyed when 
+your efforts to achieve a goal or accomplish a task are hindered or blocked.
+annoyance or 
+displeasure
+prolonged frustration
+but if your values in some aspects against the social around?
+pressure? 
+guy in shadow
+possessions
+sense of doubt
+The daily commute
 
 
